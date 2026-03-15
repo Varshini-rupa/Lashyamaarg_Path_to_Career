@@ -75,10 +75,10 @@ npm run start-frontend
 ## Features
 - 🧠 20-question psychometric test with 5 domain scores
 - 🗺️ Career roadmaps: AI/Tech, MBBS, Law, Business, Design
-- 🤖 Bilingual chatbot (English + Telugu) with Parent Mode
+- 🤖 Multilingual chatbot(all indian languages) with Parent Mode
 - 🎯 15+ opportunities with domain filter + deadline countdown
 - 🔐 JWT authentication with email OTP verification
 - 📊 Dashboard with score analysis and career insights
 
 > **Dev note:** In `NODE_ENV=development`, OTP is returned in the API response for testing.
-# Lashyamaarg_Path_to_Career
+
